@@ -1,0 +1,2 @@
+# LegalAssistant
+Virtual legal assistant.
